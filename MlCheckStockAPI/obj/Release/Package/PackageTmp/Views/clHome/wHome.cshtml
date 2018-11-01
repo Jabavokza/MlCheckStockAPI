@@ -1,0 +1,68 @@
+﻿@using MlCheckStockAPI.Models;
+@using MlCheckStockAPI.ST_Class;
+@model MlCheckStockAPI.Models.mlDBStk
+@{
+    string nV_vertion = ViewContext.Controller.GetType().Assembly.GetName().Version.ToString();
+}
+
+<hr>
+<h4>MlInterface API V. @nV_vertion</h4>
+<hr>
+
+<div class="row">
+    <div class="col-lg-5">
+        <div><h4>Database Promotion By Tender </h4></div>
+        <div>Server Name : @ViewData["db_ServerNameM"] </div>
+        <div>Database    : @ViewData["db_DBNameM"] </div>
+    </div>
+
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div><h4>Database Check Quota</h4></div>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                <tr>
+                    <th width="100" align="center">Brance</th>
+                    <th width="200" align="center">Server Name</th>
+                    <th width="200" align="center">Database Name</th>
+                    <th width="200" align="center">User</th>
+                    @*<th width="200" align="center">Password</th>*@
+                </tr>
+            </thead>
+            <tbody>
+                <!--_TDashBoard.cshtml  -->
+
+                @for (int i = 0; i < Model.DatabaseStock.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            @Model.DatabaseStock[i].Brance
+                        </td>
+                        <td>
+                            @Model.DatabaseStock[i].ServerName
+                        </td>
+                        <td>
+                            @Model.DatabaseStock[i].DabaseName
+                        </td>
+                        <td>
+                            @Model.DatabaseStock[i].User
+                        </td>
+                        @*<td>
+                            @Model.DatabaseStock[i].Pasword
+                        </td>*@
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+ </div>
+  
+
+
+

@@ -1,0 +1,149 @@
+﻿@using MlCheckStockAPI.Models;
+@using MlCheckStockAPI.ST_Class;
+@model MlCheckStockAPI.Models.mlDBStk
+<!-- #region DataBase Main -->
+<h1 class="page-header">Database Promotion By Tender</h1>
+@using (Html.BeginForm("UPDxDBByTdr", "clConfig"))
+{
+
+    <div class="row">
+        <div class="form-group">
+            <div class="col-lg-2">
+                <label for="inputsm1">Server Name</label>
+            </div>
+            <div class="col-lg-6">
+                <input type="text" name="otbDBSrvM" id="otbDBSrvM" value="@ViewData["db_ServerNameM"]" maxLength="100" class="form-control" placeholder="Server Name" />
+                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group">
+            <div class="col-lg-2">
+                <label for="inputsm1">Database Name</label>
+            </div>
+            <div class="col-lg-6">
+                <input type="text" name="otbDBNameM" id="otbDBNameM" value="@ViewData["db_DBNameM"]" maxLength="100" class="form-control" placeholder="Database" />
+                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group">
+            <div class="col-lg-2">
+                <label for="inputsm1">User</label>
+            </div>
+            <div class="col-lg-6">
+                <input type="text" name="otbDBUsrM" id="otbDBUsrM" value="@ViewData["db_UserM"]" maxLength="100" class="form-control" placeholder="ID" />
+                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group">
+            <div class="col-lg-2">
+                <label for="inputsm1">Password</label>
+            </div>
+            <div class="col-lg-6">
+                <input type="password" name="otbDBPwdM" id="otbDBPwdM" value="@ViewData["db_PasswordM"]" maxLength="100" class="form-control" placeholder="Password" />
+                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" style="display:none">
+        <div class="form-group">
+            <div class="col-lg-2">
+                <label for="inputsm1">Mode Button</label>
+            </div>
+            <div class="col-lg-6">
+                <input type="text" name="otbModeBtn" id="otbModeBtn" value="SAVE" maxLength="100" class="form-control" placeholder="Mode button" />
+                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12" style="text-align:right;margin-top:10px">
+            <button id="ocmChkDB" type="submit" class="btn btn-info" aria-label="Left Align" style="width:148px">
+                <span class="glyphicon glyphicon-cloud pull-left"></span>Check Database
+            </button>
+            <button id="ocmSave" type="submit" class="btn btn-info" aria-label="Left Align" style="width:100px ">
+                <span class="glyphicon glyphicon-ok pull-left"></span> Save
+            </button>
+        </div>
+    </div>
+}
+<label style="color:red"> @ViewData["con_DBMsgByTdr"]</label>
+<!--#endregion DataBase Main -->
+<!-- #region DataBase Quota -->
+<h1 class="page-header">Database Check Quota</h1>
+<label style="color:red"> @ViewData["con_DBMsgQuota"]</label>
+@using (Html.BeginForm("UPDxDBQuota", "clConfig"))
+{
+    <table class="table table-hover">
+        <thead>
+            <tr>
+            <tr>
+                <th width="100" align="center">Brance</th>
+                <th width="200" align="center">Server Name</th>
+                <th width="200" align="center">Database Name</th>
+                <th width="200" align="center">User</th>
+                <th width="200" align="center">Password</th>
+                <th align="center">Check Connect</th>
+                <th align="center">Save</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!--_TDashBoard.cshtml  -->
+
+            @for (int i = 0; i < Model.DatabaseStock.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <div class="col-lg-2">
+                                <label for="inputsm1">@Model.DatabaseStock[i].Brance</label>
+                            </div>
+                            <div class="col-lg-2" style="display:none">
+                                @Html.EditorFor(Model => Model.DatabaseStock[i].Brance, new { htmlAttributes = new { @class = "form-control", maxLength = "100", placeholder = "Brance" } })
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        @Html.EditorFor(Model => Model.DatabaseStock[i].ServerName, new { htmlAttributes = new { @class = "form-control", maxLength = "100", placeholder = "Server Name" } })
+                    </td>
+                    <td>
+                        @Html.EditorFor(Model => Model.DatabaseStock[i].DabaseName, new { htmlAttributes = new { @class = "form-control", maxLength = "100", placeholder = "Dabase Name" } })
+                    </td>
+                    <td>
+                        @Html.EditorFor(Model => Model.DatabaseStock[i].User, new { htmlAttributes = new { @class = "form-control", maxLength = "100", placeholder = "User" } })
+                    </td>
+                    <td>
+                        @Html.EditorFor(Model => Model.DatabaseStock[i].Pasword, new { htmlAttributes = new { @class = "form-control", type = "password", maxLength = "100", placeholder = "Pasword" } })
+                    </td>
+                    <td>
+                        @Html.ActionLink("Check DataBase", "CHKxDBQuota", "clConfig",
+                                                       new
+                                                       {
+                                                           tBrance = Model.DatabaseStock[i].Brance,
+                                                           tServerName = Model.DatabaseStock[i].ServerName,
+                                                           tDabaseName = Model.DatabaseStock[i].DabaseName,
+                                                           tUser = Model.DatabaseStock[i].User,
+                                                           tPasword = Model.DatabaseStock[i].Pasword
+                                                       }
+                                                       , null
+                                       )
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button id="ocmSaveQ" type="submit" class="btn btn-info" aria-label="Left Align" style="width:100px ">
+        Save
+    </button>
+
+}
+<!--#endregion DataBase Quota -->

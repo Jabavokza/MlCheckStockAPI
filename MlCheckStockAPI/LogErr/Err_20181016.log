@@ -1,0 +1,547 @@
+[DEBUG] 2018-10-16 10:07:32,175  1243ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:08:01,824 30891ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:08:01,845 30912ms [Err:SEToPromoByTdrReserve(line:38)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:08:22,115 51182ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:08:51,150 80217ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:08:51,151 80218ms [Err:SEToPromoByTdrReserve(line:38)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:08:54,639 83707ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:08:54,643 83711ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:08:54,643 83711ms [Err:SEToPromoByTdrReserve(line:38)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:09:11,189 100256ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:09:40,227 129294ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:09:40,227 129294ms [Err:SEToPromoByTdrReserve(line:38)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:12:19,520 288588ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:12:48,560 317627ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:12:48,560 317627ms [Err:SEToPromoByTdrReserve(line:38)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:48:24,841 170388ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:48:54,621 200168ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:48:54,623 200170ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:50:25,287 290834ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:50:54,437 319984ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:50:54,437 319984ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:51:18,879 344426ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-16 10:53:53,498 122269ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:54:22,854 151625ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:54:22,855 151626ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 10:55:35,004 223775ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 10:56:04,137 252909ms [Err:C_SEToRESQtaByTdr(line:23)]- [ReServe : C_CHKoQuota] Error=A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+[DEBUG] 2018-10-16 10:56:04,137 252909ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:01:42,036 154235ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:01:42,324 154524ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 11:01:42,325 154525ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:01:48,051 160251ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:01:48,099 160299ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:01:48,100 160300ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:02:41,360 213560ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:02:41,380 213579ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:02:41,380 213579ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:03:16,955 249155ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:03:16,987 249186ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:03:16,988 249187ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:03:19,725 251924ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:03:19,741 251941ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:03:19,742 251942ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:36:54,883 293392ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:36:55,129 293638ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:36:55,130 293639ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:37:00,071 298580ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:37:00,089 298598ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:37:00,090 298599ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:37:12,351 310860ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:38:47,512 406021ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:38:47,513 406022ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:38:56,938 415447ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:38:56,957 415466ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:38:56,958 415467ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:44:57,674 24075ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:44:57,862 24262ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:44:57,864 24264ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:44:59,256 25657ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:44:59,278 25679ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:44:59,279 25680ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:00,839 27240ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:00,873 27273ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:00,874 27274ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:02,247 28648ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:02,262 28663ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:02,262 28663ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:03,663 30064ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:03,697 30098ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:03,698 30098ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:07,048 33449ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:07,065 33466ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:07,066 33467ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:08,098 34499ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:08,132 34533ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:08,132 34533ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:10,313 36714ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:10,328 36729ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:10,328 36729ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:11,694 38094ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:11,729 38129ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:11,729 38129ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:13,893 40294ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:13,908 40309ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:13,908 40309ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:15,637 42038ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:15,677 42078ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:15,678 42079ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:16,901 43302ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:16,918 43319ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:16,919 43320ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:22,373 48774ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:22,406 48807ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:22,407 48808ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:24,193 50594ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:24,215 50616ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:24,216 50617ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:35,830 62231ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:35,864 62265ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:35,865 62266ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:37,180 63581ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:37,196 63597ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:37,197 63598ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:44,598 70999ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:44,633 71034ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:45:44,633 71034ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:45:46,160 72561ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:45:46,178 72578ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:45:46,179 72579ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:15,345 15187ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:15,508 15351ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:48:15,509 15352ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:18,667 18509ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:18,690 18532ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:48:18,691 18533ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:19,685 19528ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:19,719 19562ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:48:19,720 19563ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:20,642 20485ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:20,713 20556ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:48:20,714 20557ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:21,581 21424ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:21,612 21455ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:48:21,613 21456ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:22,519 22361ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:22,535 22377ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:48:22,536 22378ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:23,232 23074ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:23,264 23107ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:48:23,264 23107ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:24,289 24131ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:24,305 24147ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:48:24,305 24147ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:25,175 25017ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:25,205 25047ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:48:25,206 25048ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:48:26,519 26361ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:48:26,537 26379ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:48:26,537 26379ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:20,413 200255ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:20,430 200273ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 11:51:20,430 200273ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:49,200 229042ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:49,231 229073ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:51:49,231 229073ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:51,691 231533ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:51,711 231553ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:51:51,712 231554ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:52,598 232440ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:52,626 232468ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:51:52,626 232468ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:53,633 233475ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:53,651 233493ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:51:53,651 233493ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:54,511 234354ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:54,572 234414ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:51:54,572 234414ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:55,656 235498ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:55,672 235515ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:51:55,673 235516ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:51:56,621 236463ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:51:56,637 236479ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 11:51:56,638 236480ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:01,854 241696ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:01,893 241736ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:52:01,894 241737ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:03,055 242897ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:03,070 242912ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:52:03,070 242912ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:03,915 243758ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:03,944 243786ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:52:03,945 243787ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:04,931 244773ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:04,948 244790ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:52:04,949 244791ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:06,142 245984ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:06,170 246012ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:52:06,170 246012ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:08,902 248744ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:08,918 248760ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:52:08,918 248760ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:52:10,472 250314ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:52:10,489 250331ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:52:10,490 250332ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:01,557 361399ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:01,595 361437ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:54:01,595 361437ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:04,838 364681ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:04,855 364698ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:54:04,856 364699ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:06,531 366373ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:06,560 366403ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:54:06,560 366403ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:08,134 367976ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:08,152 367994ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:54:08,152 367994ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:09,689 369531ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:09,719 369561ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:54:09,720 369562ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:12,260 372103ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:12,276 372119ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:54:12,277 372120ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:13,714 373556ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:13,730 373572ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 11:54:13,730 373572ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:31,472 391315ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:31,525 391368ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:54:31,526 391369ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:34,330 394172ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:34,345 394187ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:54:34,345 394187ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:41,153 400996ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:41,181 401024ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:54:41,182 401025ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:54:48,032 407874ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:54:48,047 407889ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:54:48,047 407889ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:55:19,766 439608ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:55:19,784 439626ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:55:19,784 439626ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:55:51,394 471236ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:55:51,415 471257ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:55:51,416 471258ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:14,374 494216ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:14,404 494246ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:56:14,405 494248ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:17,311 497154ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:17,341 497183ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:56:17,342 497184ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:18,788 498630ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:18,824 498666ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:56:18,825 498667ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:19,864 499706ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:19,892 499734ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:56:19,893 499735ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:20,751 500593ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:20,780 500622ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:56:20,780 500622ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:21,691 501533ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:21,710 501552ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:56:21,711 501553ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:22,669 502512ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:22,698 502541ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:56:22,699 502542ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:23,693 503536ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:23,712 503554ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:56:23,712 503554ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:24,591 504433ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:24,621 504463ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:56:24,622 504464ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:56:25,806 505648ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:56:25,823 505665ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:56:25,824 505666ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:19,123 558966ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:19,139 558982ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 11:57:19,140 558983ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:23,123 562966ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:23,158 563001ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:23,159 563002ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:24,133 563976ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:24,150 563992ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:57:24,151 563993ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:24,831 564674ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:24,864 564706ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:24,864 564706ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:25,628 565470ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:25,645 565488ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:57:25,646 565489ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:26,332 566174ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:26,367 566209ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:26,367 566209ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:27,194 567036ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:27,211 567053ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:57:27,212 567054ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:27,792 567634ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:27,823 567665ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:27,824 567666ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:28,547 568390ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:28,566 568409ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 11:57:28,567 568410ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:29,191 569033ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:29,219 569061ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:29,219 569061ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:29,965 569807ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:29,983 569825ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:57:29,984 569826ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:30,531 570374ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:30,566 570408ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:30,566 570408ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:31,301 571143ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:31,335 571177ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:57:31,336 571178ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:32,155 571997ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:32,171 572013ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:57:32,172 572014ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:33,410 573252ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:33,430 573272ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:57:33,431 573273ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:35,858 575700ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:35,874 575716ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 11:57:35,875 575717ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:57:58,593 598435ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:57:58,628 598470ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 11:57:58,629 598471ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 11:58:06,585 606427ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 11:58:06,600 606442ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 11:58:06,600 606442ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:02:00,317 840160ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:03:11,856 911698ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:03:28,557 928400ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:03:43,784 943627ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:03:43,801 943644ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:03:43,801 943644ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:04:22,793 982635ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:04:33,893 993736ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:04:37,251 997093ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:05:26,634 1046476ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:05:26,651 1046493ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 12:05:26,652 1046494ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:28:57,571  9087ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:28:57,766  9281ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:28:57,768  9283ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:00,896 12411ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:00,919 12434ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:29:00,920 12435ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:02,030 13546ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:02,058 13574ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:29:02,059 13575ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:03,360 14875ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:03,376 14891ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:29:03,376 14891ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:45,075 17581ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:45,278 17784ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:29:45,280 17786ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:46,910 19416ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:46,954 19460ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:29:46,955 19461ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:48,308 20814ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:48,341 20847ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:29:48,342 20848ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:29:49,556 22062ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:29:49,589 22095ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:29:49,590 22096ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:30:41,630  9542ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:30:41,828  9740ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:30:41,830  9742ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:30:45,421 13333ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:30:45,443 13355ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:30:45,444 13356ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:30:53,277 21189ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:30:53,305 21217ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:30:53,306 21218ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:30:54,620 22532ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:30:54,640 22552ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:30:54,640 22552ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:32:26,905  6638ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:32:27,101  6835ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:32:27,102  6836ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:32:32,301 12034ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:32:32,324 12057ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:32:32,324 12057ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:33:38,191  3473ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:33:38,406  3688ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:33:38,408  3690ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:33:40,378  5659ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:33:40,398  5679ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:33:40,399  5680ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:33:41,555  6836ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:33:41,586  6867ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:33:41,587  6868ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:33:42,903  8185ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:33:42,919  8201ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:33:42,920  8202ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:36:50,307  9948ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:36:50,483 10124ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 12:36:50,484 10125ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:05,877 25518ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:05,937 25577ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:37:05,939 25579ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:07,362 27002ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:07,399 27039ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:37:07,400 27040ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:08,518 28159ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:08,560 28200ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:37:08,561 28201ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:09,640 29280ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:09,654 29295ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:37:09,655 29296ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:10,579 30220ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:10,613 30253ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:37:10,613 30253ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:37:11,708 31349ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:37:11,725 31366ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:37:11,726 31367ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:13,569 11527ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:13,807 11766ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:38:13,809 11768ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:15,135 13094ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:15,168 13126ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:38:15,169 13127ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:16,152 14111ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:16,199 14158ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:38:16,200 14159ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:17,414 15373ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:17,432 15391ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:38:17,433 15391ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:18,431 16389ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:18,460 16418ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:38:18,461 16419ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:38:19,241 17199ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:38:19,255 17213ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:38:19,255 17214ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:02,328  6575ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:02,585  6832ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:39:02,586  6833ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:04,213  8460ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:04,237  8484ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:39:04,239  8486ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:06,395 10642ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:06,430 10677ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:39:06,431 10678ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:07,477 11725ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:07,494 11741ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:39:07,495 11742ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:09,200 13447ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:09,229 13477ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:39:09,229 13477ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:39:11,103 15350ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:39:11,120 15367ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:39:11,121 15368ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:34,102   682ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:34,460  1040ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:34,462  1042ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:35,975  2555ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:35,994  2574ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:40:35,995  2575ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:37,132  3712ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:37,167  3747ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:37,168  3748ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:38,426  5006ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:38,442  5022ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 12:40:38,443  5023ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:39,470  6050ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:39,505  6085ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:39,506  6086ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:40,414  6994ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:40,437  7017ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 12:40:40,438  7018ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:41,293  7873ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:41,323  7903ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:41,324  7904ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:42,301  8881ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:42,317  8897ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 12:40:42,317  8897ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:43,322  9901ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:43,354  9933ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:43,355  9934ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:44,321 10901ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:44,338 10918ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 12:40:44,339 10919ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:45,154 11734ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:45,182 11762ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 12:40:45,183 11763ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 12:40:46,131 12711ms [Err:SEToPromoByTdrCancel(line:70)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 12:40:46,149 12729ms [Err:C_SEToRESQtaByTdr(line:23)]- ยกเลิกการจอง สำเร็จ
+[DEBUG] 2018-10-16 12:40:46,150 12730ms [Err:SEToPromoByTdrCancel(line:75)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:06,433 27444ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:12,156 33167ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 13:31:12,158 33169ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:16,230 37241ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:16,251 37262ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 13:31:16,253 37264ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:21,053 42065ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:23,085 44096ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 13:31:23,085 44096ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:30,881 51893ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:30,897 51909ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 13:31:30,898 51910ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:33,996 55008ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:35,739 56751ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 13:31:35,740 56751ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:37,949 58961ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:37,965 58977ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 13:31:37,966 58978ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:31:41,309 62320ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:31:42,886 63897ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 13:31:42,887 63898ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:32:17,755 98767ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:34:26,416 227427ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 13:34:26,417 227428ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:34:55,980 256992ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:34:55,993 257005ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 13:34:55,995 257006ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:35:18,188 279199ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:35:18,224 279235ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 13:35:18,224 279235ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:35:20,310 281321ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:35:20,326 281337ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 13:35:20,327 281338ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:35:21,440 282451ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:35:21,466 282477ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 13:35:21,467 282478ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:35:24,806 285818ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:35:24,823 285835ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 13:35:24,824 285836ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:35:26,804 287815ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:35:26,820 287831ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 13:35:26,821 287832ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 13:47:08,669 543510ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 13:47:14,656 549497ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 14:03:54,851 1549692ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 14:22:41,690 15866ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 14:22:42,245 16420ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 14:22:42,248 16423ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 14:22:46,225 20401ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 14:22:46,252 20428ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 14:22:46,253 20429ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 15:11:48,696 2962871ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 15:11:48,881 2963056ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 15:11:48,881 2963056ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 15:11:50,267 2964443ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 15:11:50,286 2964462ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 15:11:50,287 2964463ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 15:20:41,342 3495518ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 15:20:41,378 3495554ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 15:20:41,378 3495554ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 15:20:42,848 3497023ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 15:20:42,865 3497040ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 15:20:42,866 3497041ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 15:20:43,956 3498132ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 15:20:43,974 3498149ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 15:20:43,974 3498149ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 18:17:36,704 261309ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 18:17:36,784 261390ms [Err:C_SEToRESQtaByTdr(line:23)]- ข้อมูล BBYQuotaType ไม่ถูกต้อง
+[DEBUG] 2018-10-16 18:17:36,806 261412ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 18:17:45,108 269714ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 18:17:45,733 270339ms [Err:C_SEToRESQtaByTdr(line:23)]- CrdQuota Limit  บัตรใช้งาน ครบจำนวนแล้ว
+[DEBUG] 2018-10-16 18:17:45,734 270340ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 18:17:52,911 277517ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 18:17:52,935 277541ms [Err:C_SEToRESQtaByTdr(line:23)]- จำนวน Quota เกิน Limit
+[DEBUG] 2018-10-16 18:17:52,936 277542ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 18:17:58,416 283022ms [Err:SEToPromoByTdrReserve(line:32)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 18:17:58,483 283089ms [Err:C_SEToRESQtaByTdr(line:42)]- เพิ่มการจองสิทธิ์ส่วนลด สำเร็จ
+[DEBUG] 2018-10-16 18:17:58,484 283090ms [Err:SEToPromoByTdrReserve(line:37)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-16 18:18:00,980 285585ms [Err:SEToPromoByTdrUsed(line:51)]- -------------------------------START------------------------------------
+[ERROR] 2018-10-16 18:18:01,000 285605ms [Err:C_SEToRESQtaByTdr(line:23)]- ยืนยันการใช่สิทธิ์ สำเร็จ
+[DEBUG] 2018-10-16 18:18:01,003 285608ms [Err:SEToPromoByTdrUsed(line:56)]- -------------------------------End------------------------------------

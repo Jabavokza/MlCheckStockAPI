@@ -1,0 +1,8 @@
+﻿<DataBase>
+	<DB>
+		<ServerName>ADASRVTEST151</ServerName>
+		<DataBaseName>POSSDB_CENTER1</DataBaseName>
+		<User>sa</User>
+		<Password>P@ssw0rd</Password>
+	</DB>
+</DataBase>

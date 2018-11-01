@@ -1,0 +1,12 @@
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\log4net.config
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\MlCheckStockCallAPI.dll
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\MlCheckStockCallAPI.pdb
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\MlCheckStockCallAPI.tlb
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\log4net.dll
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\Newtonsoft.Json.dll
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\log4net.xml
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\bin\Release\Newtonsoft.Json.xml
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\obj\Release\MlCheckStockCallAPI.csproj.CoreCompileInputs.cache
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\obj\Release\MlCheckStockCallAPI.csproj.CopyComplete
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\obj\Release\MlCheckStockCallAPI.dll
+D:\Phakin\ProjectThemall\MlCheckStockAPI\Source_Stock\MlCheckStockAPI\MlCheckStockCallAPI\obj\Release\MlCheckStockCallAPI.pdb

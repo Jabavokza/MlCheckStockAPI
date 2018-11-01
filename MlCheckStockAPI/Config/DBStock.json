@@ -1,0 +1,46 @@
+{
+  "DatabaseStock": [
+    {
+      "Brance": "01K0",
+      "ServerName": "172.16.30.151",
+      "DabaseName": "POSSDB_DP",
+      "User": "sa",
+      "Pasword": "P@ssw0rd"
+    },
+    {
+      "Brance": "SP",
+      "ServerName": "172.16.30.151",
+      "DabaseName": "POSSDB_SP",
+      "User": "sa4",
+      "Pasword": "P@ssw0rd"
+    },
+    {
+      "Brance": "GM",
+      "ServerName": "172.16.30.151",
+      "DabaseName": "POSSDB_GM",
+      "User": "sa344",
+      "Pasword": "P@ssw0rd"
+    },
+    {
+      "Brance": "KA",
+      "ServerName": "172.16.30.151",
+      "DabaseName": "RedeemDB",
+      "User": "sa1",
+      "Pasword": "P@ssw0rd"
+    },
+    {
+      "Brance": "17KA1",
+      "ServerName": "NBADA100\\SQLEXPRESS",
+      "DabaseName": "POSSDB_17KA",
+      "User": "sa",
+      "Pasword": "P@ssw0rd"
+    },
+    {
+      "Brance": "17KA",
+      "ServerName": "172.16.30.151",
+      "DabaseName": "POSSDB_CENTER1_Tuch",
+      "User": "sa",
+      "Pasword": "P@ssw0rd"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+[DEBUG] 2018-10-09 12:09:32,556 278120ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:09:32,673 278237ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:10:35,461 16905ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:10:35,524 16968ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:19:30,649 25963ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:19:30,809 26123ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:19:31,157 26472ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:22:06,421 23805ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:22:06,677 24061ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:22:06,833 24217ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:25:00,538 197922ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:25:00,540 197924ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:25:00,590 197974ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:25:09,669 207053ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:25:09,671 207055ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:25:09,705 207089ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:26:22,285 279669ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:26:22,287 279671ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:26:22,358 279742ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:26:57,440 314824ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:26:57,442 314826ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 12:28:50,587 21290ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:28:50,678 21381ms [Err:SETxPromoByTdr(line:79)]- Type R
+[ERROR] 2018-10-09 12:37:27,416 538120ms [Err:INSbTPSTSalBBYTdr(line:382)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 12:37:27,452 538156ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:39:35,458 666161ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:39:35,460 666163ms [Err:SETxPromoByTdr(line:79)]- Type R
+[ERROR] 2018-10-09 12:41:10,635 761339ms [Err:INSbTPSTSalBBYTdr(line:382)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 12:41:10,636 761340ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 12:41:13,600 764304ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 12:41:13,603 764307ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 13:09:53,402 15970ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 13:09:53,477 16045ms [Err:SETxPromoByTdr(line:79)]- Type R
+[ERROR] 2018-10-09 13:09:53,667 16235ms [Err:INSbTPSTSalBBYTdr(line:415)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 13:09:53,706 16274ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 13:10:50,054 72622ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 13:10:50,057 72625ms [Err:SETxPromoByTdr(line:79)]- Type R
+[ERROR] 2018-10-09 13:13:11,164 213732ms [Err:INSbTPSTSalBBYTdr(line:0)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 13:13:11,164 213732ms [Err:SETxPromoByTdr(line:0)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 13:13:14,315 216883ms [Err:SETxPromoByTdr(line:0)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 13:13:14,317 216885ms [Err:SETxPromoByTdr(line:0)]- Type R
+[DEBUG] 2018-10-09 13:19:57,264 58415ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 13:19:57,361 58512ms [Err:SETxPromoByTdr(line:79)]- Type R
+[ERROR] 2018-10-09 13:38:21,678 1162829ms [Err:INSbTPSTSalBBYTdr(line:414)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 13:38:21,735 1162886ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 13:38:52,630 1193781ms [Err:SETxPromoByTdr(line:44)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 13:38:52,634 1193785ms [Err:SETxPromoByTdr(line:79)]- Type R
+[DEBUG] 2018-10-09 13:38:52,692 1193843ms [Err:SETxPromoByTdr(line:111)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:09:48,580 43809ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:09:48,769 43998ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:09:49,259 44488ms [Err:SETbReServe(line:172)]- [ReServe]=Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+[DEBUG] 2018-10-09 15:09:49,295 44525ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:18:30,087 105920ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:18:30,182 106015ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:18:30,386 106219ms [Err:SETbReServe(line:172)]- [ReServe]=Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+[DEBUG] 2018-10-09 15:18:30,425 106258ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:19:02,283 138116ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:19:02,285 138118ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:19:24,945 160777ms [Err:SETbReServe(line:172)]- [ReServe]=Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+[DEBUG] 2018-10-09 15:19:24,947 160779ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:27:22,763 638596ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:27:22,767 638600ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:28:42,649 718482ms [Err:SETbReServe(line:172)]- [ReServe]=Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+[DEBUG] 2018-10-09 15:28:42,650 718483ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:28:47,029 722862ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:28:47,032 722865ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 15:29:55,573  7184ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:29:55,705  7315ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 15:29:55,945  7556ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:30:11,204 22814ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:30:11,206 22816ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:30:11,373 22984ms [Err:INSbTPSTSalBBYTdr(line:241)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 15:30:11,375 22986ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:30:23,298 34908ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:30:23,302 34912ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 15:30:23,370 34980ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:30:36,126 47737ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:30:36,127 47738ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:30:36,241 47852ms [Err:INSbTPSTSalBBYTdr(line:241)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 15:30:36,241 47852ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:30:43,288 54899ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:30:43,290 54901ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 15:30:43,407 55018ms [Err:INSbTPSTSalBBYTdr(line:241)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 15:30:43,408 55019ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 15:30:47,831 59442ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 15:30:47,833 59444ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 15:30:47,901 59512ms [Err:SETxPromoByTdr(line:114)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:13:17,633 23102ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:13:17,840 23309ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 16:13:18,308 23777ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:14:11,911 77380ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:14:11,914 77383ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:14:12,162 77631ms [Err:INSbTPSTSalBBYTdr(line:243)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:14:12,164 77633ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:17:37,940 38719ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:17:38,072 38850ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:17:38,309 39088ms [Err:INSbTPSTSalBBYTdr(line:243)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:17:38,311 39090ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:18:03,096 63874ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:18:03,099 63877ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:18:03,231 64009ms [Err:INSbTPSTSalBBYTdr(line:243)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:18:03,232 64010ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:22:43,090 26997ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:22:43,188 27095ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:34:49,477 753385ms [Err:INSbTPSTSalBBYTdr(line:0)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:45:39,936 20813ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:45:40,045 20922ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:45:40,363 21240ms [Err:INSbTPSTSalBBYTdr(line:260)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:45:40,365 21242ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:46:42,926 83803ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:46:42,929 83806ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 16:46:42,982 83859ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:48:18,443 179320ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:48:18,445 179322ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 16:48:18,501 179378ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:48:33,981 194858ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:48:33,982 194859ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 16:48:33,999 194876ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:52:01,958 58363ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:52:02,073 58478ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 16:52:12,601 69005ms [Err:INSbTPSTSalBBYTdr(line:260)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 16:52:12,603 69007ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 16:57:26,002 29994ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 16:57:26,107 30099ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 16:57:26,361 30353ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:05:27,422 15443ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:05:27,551 15572ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:05:27,861 15882ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:05:27,863 15884ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:06:26,889 74909ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:06:26,890 74910ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:06:27,017 75038ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:06:27,017 75038ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:06:37,054 85075ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:06:37,056 85077ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:06:51,509 99530ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:06:51,510 99531ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:06:54,498 102518ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:06:54,500 102520ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:07:05,732 113753ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:07:05,732 113753ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:07:08,976 116997ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:07:08,978 116999ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:07:32,741 140762ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[ERROR] 2018-10-09 17:09:05,261 233281ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:09:27,990 256011ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:10:07,059 295080ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:10:07,061 295082ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:10:14,676 302697ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:10:14,677 302698ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:11:04,050 352070ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:11:04,056 352076ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 17:11:07,428 355449ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:11:44,296 392317ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:11:44,299 392320ms [Err:SETxPromoByTdr(line:82)]- Type R
+[ERROR] 2018-10-09 17:11:44,414 392435ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:11:44,415 392436ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:12:11,880 419901ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:12:11,882 419903ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 17:12:11,943 419964ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:12:27,728 435748ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:12:27,730 435750ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 17:12:27,798 435818ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:12:41,519 449540ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:12:41,520 449541ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 17:12:41,558 449579ms [Err:SETxPromoByTdr(line:109)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:13:55,869 523890ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:13:55,871 523892ms [Err:SETxPromoByTdr(line:82)]- Type R
+[DEBUG] 2018-10-09 17:15:49,766 637787ms [Err:SETxPromoByTdr(line:0)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:16:16,723 664744ms [Err:SETxPromoByTdr(line:0)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:16:16,725 664746ms [Err:SETxPromoByTdr(line:0)]- Type R
+[DEBUG] 2018-10-09 17:16:16,799 664819ms [Err:SETxPromoByTdr(line:0)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:27:39,448 29256ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:27:39,528 29336ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:27:39,793 29601ms [Err:SETbReServe(line:193)]- [ReServe]=Invalid column name 'POS_StmCode'.
+[DEBUG] 2018-10-09 17:27:39,794 29602ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:28:10,029 59837ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:28:10,031 59839ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:30:05,078 174886ms [Err:SETbReServe(line:0)]- [ReServe]=Invalid column name 'POS_StmCode'.
+[DEBUG] 2018-10-09 17:30:05,078 174886ms [Err:SETxPromoByTdr(line:0)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:30:10,499 180307ms [Err:SETxPromoByTdr(line:0)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:30:10,501 180309ms [Err:SETxPromoByTdr(line:0)]- Type R
+[ERROR] 2018-10-09 17:30:12,541 182349ms [Err:INSbTPSTSalBBYTdr(line:0)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:30:12,542 182350ms [Err:SETxPromoByTdr(line:0)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:37:31,097 77638ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:37:31,181 77722ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:37:31,461 78001ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:37:31,463 78003ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:37:40,407 86947ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:37:40,409 86949ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:37:40,531 87071ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[ERROR] 2018-10-09 17:37:40,602 87142ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:37:40,602 87142ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:37:57,865 104405ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:37:57,867 104407ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:37:58,017 104558ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[ERROR] 2018-10-09 17:37:58,104 104645ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:37:58,104 104645ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:38:19,725 126265ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:38:19,727 126267ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:40:53,685 280225ms [Err:INSbTPSTSalBBYTdr(line:256)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 17:40:53,685 280225ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:41:34,227 320767ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:41:34,230 320770ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 17:41:41,431 327971ms [Err:SETbReServe(line:133)]- [44] Per Plant TPSTSalBBYTdr ไม่พบข้อมูล
+[DEBUG] 2018-10-09 17:41:42,497 329037ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 17:41:51,748 338289ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 17:41:51,749 338290ms [Err:SETxPromoByTdr(line:81)]- Type R
+[DEBUG] 2018-10-09 17:43:32,249 438790ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 18:17:33,700 11864ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 18:17:33,943 12107ms [Err:SETxPromoByTdr(line:81)]- Type R
+[DEBUG] 2018-10-09 18:17:33,981 12145ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
+[DEBUG] 2018-10-09 19:07:44,813 3022977ms [Err:SETxPromoByTdr(line:47)]- -------------------------------START------------------------------------
+[DEBUG] 2018-10-09 19:07:44,839 3023003ms [Err:SETxPromoByTdr(line:81)]- Type R
+[ERROR] 2018-10-09 19:07:44,978 3023143ms [Err:INSbTPSTSalBBYTdr(line:255)]- จองสิทธิ์ส่วนลด ไม่สำเร็จ อาจจะมีอยู่แล้ว
+[DEBUG] 2018-10-09 19:07:44,995 3023160ms [Err:SETxPromoByTdr(line:97)]- -------------------------------End------------------------------------
