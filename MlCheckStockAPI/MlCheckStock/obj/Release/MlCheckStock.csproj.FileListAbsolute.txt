@@ -44,7 +44,6 @@ D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\bin\Release
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\bin\Release\Newtonsoft.Json.dll
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\bin\Release\log4net.xml
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\bin\Release\Newtonsoft.Json.xml
-D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Release\MlCheckStock.csprojAssemblyReference.cache
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Release\MlCheckStock.csproj.CoreCompileInputs.cache
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Release\MlCheckStock.csproj.CopyComplete
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Release\MlCheckStock.dll

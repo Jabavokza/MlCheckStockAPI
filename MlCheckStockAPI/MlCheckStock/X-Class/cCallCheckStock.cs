@@ -35,8 +35,10 @@ namespace MlCheckStock.X_Class
     {
         private cPOSTJsonToAPI oC_POSTJsonToAPI = new cPOSTJsonToAPI();
         private mlRESCheckStock oRESCheckStock = new mlRESCheckStock();
-
-        public string GETxQuota(string ptUrl, string ptPlantCode, string ptBByProfID, string ptBByNo, string ptSkuCode, string ptStartDate, string ptEndDate)
+        public string tC_Result { get; set; }
+        public string tC_Code { set; get; }
+        public string tC_Message { set; get; }
+        public string GETtQuota(string ptUrl, string ptPlantCode, string ptBByProfID, string ptBByNo, string ptSkuCode, string ptStartDate, string ptEndDate)
         {
             try
             {
@@ -52,12 +54,16 @@ namespace MlCheckStock.X_Class
                 var tJson = JsonConvert.SerializeObject(oREQCheckStock, Formatting.Indented);
                 var tResultMsg = oC_POSTJsonToAPI.C_POSTtHTTPCliant(ptUrl, tJson);
                 oRESCheckStock = JsonConvert.DeserializeObject<mlRESCheckStock>(tResultMsg);
-                var tResult = oRESCheckStock.tML_Result + "|" + oRESCheckStock.tML_Code + "|" + oRESCheckStock.tML_Message;
-                return tResult;
+                tC_Result = oRESCheckStock.tML_Result;
+                tC_Code = oRESCheckStock.tML_Code;
+                tC_Message = oRESCheckStock.tML_Message;
+                //var tResult = oRESCheckStock.tML_Result + "|" + oRESCheckStock.tML_Code + "|" + oRESCheckStock.tML_Message;
+                //return tResult;
+                return "Successful";
             }
             catch (Exception oEx)
             {
-                return oEx.Message;
+                return oEx.Message; 
             }
 
         }
