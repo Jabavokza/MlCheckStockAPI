@@ -440,7 +440,7 @@
             this.ocmQuota.Name = "ocmQuota";
             this.ocmQuota.Size = new System.Drawing.Size(75, 23);
             this.ocmQuota.TabIndex = 0;
-            this.ocmQuota.Text = "Quota";
+            this.ocmQuota.Text = "CheckQuota";
             this.ocmQuota.UseVisualStyleBackColor = true;
             this.ocmQuota.Click += new System.EventHandler(this.ocmQuota_Click);
             // 

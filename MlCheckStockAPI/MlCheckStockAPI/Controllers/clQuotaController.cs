@@ -65,7 +65,7 @@ namespace MlCheckStockAPI.Controllers
                 tBrc = poREQCheckStock.tML_PlantCode;
                 //Select DB form Brance json
                 var aDB = (from oDBStk in oC_DBStk.DatabaseStock
-                           where oDBStk.Brance == tBrc
+                           where oDBStk.Brance == tBrc.Substring(2,2)
                            select oDBStk).ToList();
 
                 //SET DB string with plant ex='DP'
@@ -139,7 +139,7 @@ namespace MlCheckStockAPI.Controllers
                 {
                     oC_RESQta = new mlRESCheckStock()
                     {
-                        tML_Result = oDtCnt.ToString(),
+                        tML_Result = oDtCnt.Rows[0]["FCSumScdQty"].ToString(),
                         tML_Code = "200",
                         tML_Message = "Success"
                     };
