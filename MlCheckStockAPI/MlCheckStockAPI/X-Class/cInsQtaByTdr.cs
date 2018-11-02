@@ -4,14 +4,14 @@ using System;
 using System.Data.SqlClient;
 using System.Text;
 
-namespace MlCheckStockAPI.X_Class
+namespace MlCheckStockAPI.X_Class.QtaByTdr
 {
     public class cInsQtaByTdr
     {
         public mlRESQtaByTdr C_INSoTPSTSalBBYTdr(mlREQQtaByTdrReserve poREQQtaByTdrReserve)
         {
             StringBuilder oSql = new StringBuilder();
-            cResQtaByTdrcs oRESQtaByTdrcs = new cResQtaByTdrcs();
+            cResMsgQtaByTdrcs oRESQtaByTdrcs = new cResMsgQtaByTdrcs();
             string tC_ResCod;
             string tC_Message;
             string tTransStatus = "R";
@@ -66,7 +66,7 @@ namespace MlCheckStockAPI.X_Class
                 oSql.AppendLine(",'" + poREQQtaByTdrReserve.tML_TimeIns + "'");
                 oSql.AppendLine(",'" + int.Parse(poREQQtaByTdrReserve.tML_SrcSeqNo) + "'");
                 oSql.AppendLine(")");
-                int nResult = cCNSP.SP_SETnDbTbl(oSql.ToString());
+                int nResult = cConDbByTender.C_SETnDbTbl(oSql.ToString());
                 if (nResult > 0)
                 {
                     tC_ResCod = "00";

@@ -75,3 +75,16 @@ D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Debug\M
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Debug\MlCheckStock.csproj.CopyComplete
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Debug\MlCheckStock.dll
 D:\Phakin\ProjectGithub\MlCheckStockAPI\MlCheckStockAPI\MlCheckStock\obj\Debug\MlCheckStock.pdb
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\log4net.config
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\MlCheckStock.dll
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\MlCheckStock.pdb
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\MlCheckStock.tlb
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\log4net.dll
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\Newtonsoft.Json.dll
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\log4net.xml
+D:\Project\2018\MlCheckStock\MlCheckStock\bin\Debug\Newtonsoft.Json.xml
+D:\Project\2018\MlCheckStock\MlCheckStock\obj\Debug\MlCheckStock.csprojAssemblyReference.cache
+D:\Project\2018\MlCheckStock\MlCheckStock\obj\Debug\MlCheckStock.csproj.CoreCompileInputs.cache
+D:\Project\2018\MlCheckStock\MlCheckStock\obj\Debug\MlCheckStock.csproj.CopyComplete
+D:\Project\2018\MlCheckStock\MlCheckStock\obj\Debug\MlCheckStock.dll
+D:\Project\2018\MlCheckStock\MlCheckStock\obj\Debug\MlCheckStock.pdb

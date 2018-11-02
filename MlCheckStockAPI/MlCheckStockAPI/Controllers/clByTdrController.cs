@@ -2,7 +2,7 @@
 using log4net;
 using MlCheckStockAPI.Models.ByTender;
 using MlCheckStockAPI.ST_Class;
-using MlCheckStockAPI.X_Class;
+using MlCheckStockAPI.X_Class.QtaByTdr;
 using System;
 using System.Globalization;
 using System.Net;
@@ -28,7 +28,7 @@ namespace MlCheckStockAPI.Controllers
                 oC_Log.Debug("-------------------------------START------------------------------------");
                 Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
 
-                C_CHKxMemcach();
+               // C_CHKxMemcach();
                 var oReServe = new cReServe();
                 oC_RESQtaByTdrcs = new mlRESQtaByTdr();
                 oC_RESQtaByTdrcs = oReServe.C_SEToReServe(pmlREQQtaByTdrReserve);
@@ -49,7 +49,7 @@ namespace MlCheckStockAPI.Controllers
                 oC_Log.Debug("-------------------------------START------------------------------------");
                 Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
 
-                C_CHKxMemcach();
+              //  C_CHKxMemcach();
                 var oUsed = new cUsed();
                 oC_RESQtaByTdrcs = new mlRESQtaByTdr();
                 oC_RESQtaByTdrcs = oUsed.C_SEToUsed(pmlREQQtaByTdrUsed);
@@ -70,7 +70,7 @@ namespace MlCheckStockAPI.Controllers
                 oC_Log.Debug("-------------------------------START------------------------------------");
                 Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
                 var oCancel = new cCancel();
-                C_CHKxMemcach();
+              //  C_CHKxMemcach();
                 oC_RESQtaByTdrcs = new mlRESQtaByTdr();
                 oC_RESQtaByTdrcs = oCancel.C_SEToCancel(pmlREQQtaByTdrCancel);
                 oC_Log.Debug("-------------------------------End------------------------------------");
@@ -81,21 +81,20 @@ namespace MlCheckStockAPI.Controllers
                 return BadRequest(oEx.Message);
             }
         }
-        private void C_CHKxMemcach()
-        {
-            try
-            {
-                //Memcach init
-                var tCon = cCNSP.SP_GETtDBByTdr();
-                var oMC_Usr = new BaseCacheManager<string>(cCNVB.oCMConfig);
-                oMC_Usr.AddOrUpdate("key", tCon, _ => tCon);
-                cCNVB.tConStr = oMC_Usr.Get("key");
-            }
-            catch (WebException oEx)
-            {
-                throw oEx;
-            }
-
-        }
+        //private void C_CHKxMemcach()
+        //{
+        //    try
+        //    {
+        //        //Memcach init
+        //        var tCon = cConDbByTender.C_GETtDBByTdr();
+        //        var oMC_Usr = new BaseCacheManager<string>(cCNVB.oCMConfig);
+        //        oMC_Usr.AddOrUpdate("key", tCon, _ => tCon);
+        //        cCNVB.tConStr = oMC_Usr.Get("key");
+        //    }
+        //    catch (WebException oEx)
+        //    {
+        //        throw oEx;
+        //    }
+        //}
     }
 }

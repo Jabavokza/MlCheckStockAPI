@@ -1,0 +1,57 @@
+﻿@{
+    string nV_vertion = ViewContext.Controller.GetType().Assembly.GetName().Version.ToString();
+    //nV_vertion = nV_vertion.Substring(0, 4);
+}
+
+<hr>
+<h4>MlInterface API V. @nV_vertion</h4>
+<hr>
+
+<div class="row">
+    <div class="col-lg-5">
+        <div><h4>Database Main </h4></div>
+        <div>Server Name : @ViewData["db_ServerNameM"] </div>
+        <div>Database    : @ViewData["db_DBNameM"] </div>
+    </div>
+
+</div>
+<hr>
+<div class="row">
+    @using (Html.BeginForm("SETxSendMsg", "clHome"))
+    {
+        @*<div class="row" >
+                    <div class="form-group">
+                        <div class="col-lg-2">
+                            <label for="inputsm1">Mode Button</label>
+                        </div>
+                        <div class="col-lg-6">
+                            <input type="text" name="otbMsg1" id="otbModeBtn" value="SAVE" maxLength="100" class="form-control" placeholder="Mode button" />
+                            <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12" style="text-align:right;margin-top:10px">
+                        <button id="ocmSend1" type="submit" class="btn btn-info" aria-label="Left Align" style="width:148px">
+                            <span class="glyphicon glyphicon-cloud pull-left"></span>Check Database
+                        </button>
+
+                    </div>
+                </div>
+            <input type="text" name="otbMsg1" id="otbModeBtn" value="SAVE" maxLength="100" class="form-control" placeholder="Mode button" />
+            <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+            <button id="ocmSend1" type="submit" class="btn btn-info" aria-label="Left Align" style="width:148px" >
+                <span class="glyphicon glyphicon-cloud pull-left"></span>Check Database
+            </button>*@
+    }
+
+</div>
+
+<script>
+    //$('#ocmSend1').click(function (e) {
+    //    alert("Home");
+    //});
+</script>
+
+

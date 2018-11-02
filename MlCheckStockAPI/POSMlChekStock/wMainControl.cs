@@ -25,8 +25,7 @@ namespace POSMlChekStock
             try
             {
                 cCallCheckStock oCallCheckStock = new cCallCheckStock();
-
-                var tResult = oCallCheckStock.GETxQuota(otbUrlCHK.Text , otbPlantCodeCHK.Text, otbBByProfIDCHK.Text, otbBByNoCHK.Text, otbSKUCodeCHK.Text , otbStartDateCHK.Text , otbEndDateCHK.Text);
+                var tResult = oCallCheckStock.GETtQuota(otbUrlCHK.Text , otbPlantCodeCHK.Text, otbBByProfIDCHK.Text, otbBByNoCHK.Text, otbSKUCodeCHK.Text , otbStartDateCHK.Text , otbEndDateCHK.Text);
                 var aResult = tResult.Split('|');
                 otbResult.Text = aResult[0];
                 otbCode.Text = aResult[1];
@@ -34,7 +33,7 @@ namespace POSMlChekStock
             }
             catch (Exception oEx)
             {
-                MessageBox.Show("wMainControl :ocmQuota_Click ///"+oEx.Message);
+                MessageBox.Show(oEx.Message);
             }
         }
 

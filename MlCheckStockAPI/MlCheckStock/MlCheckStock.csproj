@@ -11,14 +11,11 @@
     <AssemblyName>MlCheckStock</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>
-    </SccProjectName>
-    <SccLocalPath>
-    </SccLocalPath>
+    <SccProjectName>"%24/Project/2018/MlCheckStock/MlCheckStock", ZCPDAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
     <SccAuxPath>
     </SccAuxPath>
-    <SccProvider>
-    </SccProvider>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

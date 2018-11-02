@@ -24,8 +24,8 @@
     {
       "Brance": "KA",
       "ServerName": "172.16.30.151",
-      "DabaseName": "RedeemDB",
-      "User": "sa1",
+      "DabaseName": "POSSDB_CENTER1_Tuch",
+      "User": "sa",
       "Pasword": "P@ssw0rd"
     },
     {

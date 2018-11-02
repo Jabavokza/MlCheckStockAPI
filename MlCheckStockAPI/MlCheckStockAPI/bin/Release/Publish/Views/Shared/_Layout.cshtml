@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "wHome", "clHome", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "wHome" ? "active" : "")">@Html.ActionLink("Home", "wHome", "clHome", new { area = "" }, null)</li>
+                    <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")">@Html.ActionLink("Document API", "Index", "Help", new { area = "" }, null)</li>
+                    @*<li class="@(ViewContext.RouteData.Values["Action"].ToString() == "wConfig" ? "active" : "")">@Html.ActionLink("Config Dasbase1", "wConfig", "cvcConfig", new { area = "" }, null)</li>*@
+                    <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "wConfig" ? "active" : "")">@Html.ActionLink("Config Dasbase", "wConfig", new { area = "" }, new { data_toggle = "modal", data_target = "#mConfig" }))</li>
+                    @*@Html.Hidden("RedirectTo", Url.Action("wConfig", "cvcConfig"))*@
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+
+    <!-- Modal Config  Form _Layout -->
+    <div class="modal fade" id="mConfig" tabindex="-1" role="dialog" aria-labelledby="mConfig-label">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="mUserIns-label">Login to use Config database</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="form-group">
+                            <div class="col-lg-4">
+                                <label for="inputsm1">ID</label>
+                            </div>
+                            <div class="col-lg-5">
+                                <input type="text" name="otbConfigID" id="otbConfigID" value="" maxLength="10" class="form-control" placeholder="ID" />
+                                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top:5px">
+                        <div class="form-group">
+                            <div class="col-lg-4">
+                                <label for="inputsm2">Password</label>
+                            </div>
+                            <div class="col-lg-5">
+                                <input type="password" name="otbConfigPss" id="otbConfigPss" value="" maxLength="10" class="form-control" placeholder="Password" />
+                                <i class="form-control-feedback glyphicon glyphicon-remove" style="display: none;"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button class="btn btn-primary" type="button" id="ocmConfig"><i class="glyphicon glyphicon-log-in"></i>&nbsp;Login</button>
+                    @*@Html.Hidden("RedirectTo", Url.Action("wConfig", "clConfig"))*@
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Config  Form _Layout -->
+
+
+
+    <script>
+
+        $("#ocmConfig").click(function () {
+            var tID = $('input[name=otbConfigID]').val();
+            var tPss = $('input[name=otbConfigPss]').val();
+            var tUrlClConfig = '@Url.Action("CHKbSession", "clConfig")';
+            var tUrlTure = '@Url.Action("wConfig", "clConfig")';
+            var tUrlFalse = '@Url.Action("wHome", "clHome")';
+            var tText;
+            var tMainUrl;
+
+            if (tUrlClConfig == '') {
+
+                var atUrl = window.location.href.split('/');
+
+                for (var nLoop = 0; nLoop < atUrl.length - 2; nLoop++) {
+
+                    if (nLoop == 0) {
+                        tTex = '';
+                    } else {
+                        tTex = '/';
+                    }
+
+                    tUrlClConfig += tTex + atUrl[nLoop];
+                }
+
+                tMainUrl = tUrlClConfig;
+                tUrlClConfig += '/clConfig/CHKbSession';
+            }
+
+            if (tID == "admin" && tPss == "009") {
+                //var url = '/clConfig/wConfig';
+                //window.location.href = url;
+                $.ajax({
+                    type: 'POST',
+                    dataType: 'json',
+                    contentType: 'application/json',
+                    //url: '/clConfig/CHKbSession', // Mike Edit
+                    url: tUrlClConfig,
+                    data: '{}',
+                    success: function (bSuccess) {
+                        //alert(bSuccess);
+                        if (bSuccess == true) {
+                            //location.href = "/clConfig/wConfig"
+                            if (!(tUrlTure == '')) {
+                                location.href = tUrlTure;
+                            } else {
+                                location.href = tMainUrl + "/clConfig/wConfig";
+                            }
+                        }
+                        else {
+                            //location.href = "/clHome/wHome"
+                            if (!(tUrlFalse == '')) {
+                                location.href = tUrlFalse;
+                            } else {
+                                location.href = tMainUrl + "/clHome/wHome";
+                            }
+                        }
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            }
+            else {
+                alert("ID or Password invalid.");
+            }
+        });
+        //Click Process
+        $('#ocmChkDB').click(function (e) {
+            // $('#ocmSrvBack').hide();
+            //alert("Chk");
+            $("#otbModeBtn").val("CHECKDB");
+        });
+        $('#ocmSave').click(function (e) {
+            // alert("save");
+            $("#otbModeBtn").val("SAVE");
+        });
+                                //================================ SignalR ==========================================
+
+    </script>
+
+
+</body>
+</html>
+
